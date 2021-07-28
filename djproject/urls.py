@@ -28,6 +28,7 @@ urlpatterns = [
     url(r'^noidajobs/', views.noidajobs1),
     url(r'^api/', include('testapp.api.urls')),
 
-
-
 ]
+
+
+#This is a change into URL file
